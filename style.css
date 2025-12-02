@@ -1,0 +1,39 @@
+p {
+    background-color: red;
+}
+
+.text {
+    background-color: green;
+}
+
+#unique {
+    background-color: blue;
+}
+
+[data-info="test"] {
+    background-color: yellow;
+}
+
+header p {
+    background-color: orange;
+}
+
+div > p {
+    background-color: pink;
+}
+
+h2 + p {
+    background-color: purple;
+}
+
+div.box p {
+    background-color: cyan;
+}
+
+#main .item {
+    background-color: lime;
+}
+
+article.card > p.desc {
+    background-color: coral;
+}
